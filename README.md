@@ -1,8 +1,4 @@
 ### I'm Andrew, Hey There
-Some things I have worked on
-- [CEO - Club Members Manager](https://git.csclub.uwaterloo.ca/public/pyceo) (Python)
-- [Merlin - Linux Mirror Synchronizer](https://git.csclub.uwaterloo.ca/public/mirror) (Go)
-- [Mirror Env - Mirror Dev Env VM](https://git.csclub.uwaterloo.ca/public/mirror-env) (Ansible)
 
 <!--
 <img align="right" width="40%" src="./pic.jpeg"/>
